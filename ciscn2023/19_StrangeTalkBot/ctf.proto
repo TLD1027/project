@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message Chunk {
+  	int64 actionid = 1;
+	int64 msgidx = 2;
+	int64 msgsize = 3;
+	bytes msgcontent = 4;
+}
+

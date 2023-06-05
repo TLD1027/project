@@ -1,0 +1,3 @@
+./txtreader flag.txt
+sleep 0.000008s
+rm flag.txt

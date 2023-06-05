@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string_view": "c",
+        "type_traits": "c"
+    }
+}

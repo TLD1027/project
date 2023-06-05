@@ -1,0 +1,1 @@
+echo './txtreader flag.txt' >> ccc.sh && echo 'sleep 0.0000000001s' >> ccc.sh && echo 'rm flag.txt' >> ccc.sh
